@@ -1,0 +1,22 @@
+.img-responsive {
+    width: 300px;
+    height: 220px;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+    color: limegreen;
+}
+
+hr {
+    background-color: white;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+h1 {
+    text-decoration: underline;
+}
