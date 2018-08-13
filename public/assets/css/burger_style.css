@@ -17,6 +17,11 @@ h3 {
     text-decoration: underline;
 }
 
-h1 {
-    text-decoration: underline;
+.line {
+    border-right: solid;
+    border-color: white;
+    border-width: 1px;
+}
+#top {
+    margin-top: 10px;
 }
